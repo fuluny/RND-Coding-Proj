@@ -1,2 +1,2 @@
 # Chladni-Plate
-From old school project (Phys 210)
+From old school project (Phys 210).
