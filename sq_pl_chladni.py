@@ -1,5 +1,9 @@
 #!/usr/bin/python
 
+# From old school project from Introduction to Computation Physics. 
+# The original project was initially written in java, but I can't seem locate the final file. 
+# So this is a new python version after the course was already over.
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import cm
